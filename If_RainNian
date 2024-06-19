@@ -1,0 +1,9 @@
+N = input("请务必输入一个正整数，谢谢")
+if N % 4 = 0 AND N %100 != 0 then 
+  output "是闰年"
+else if N % 400 = 0 then
+  output "是闰年"
+else 
+  output "不是闰年"
+end if
+output N
